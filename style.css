@@ -7,7 +7,7 @@ body {
 }
 
 nav {
-    background-color: rgb(98, 64, 105);
+    background-color: white;
     padding: 15px;
 }
 
@@ -23,7 +23,7 @@ nav ul li {
 
 .hero {
     padding: 50px;
-    background-color: rgb(98, 64, 105);
+    background-color: aqua;
 }
 
 .hero img{
